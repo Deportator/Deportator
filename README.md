@@ -13,4 +13,8 @@
 ![Docker](https://img.shields.io/badge/Docker-24292F??style=flat-square&logo=Docker&logoColor=#F3F4F7)
 ![Jira](https://img.shields.io/badge/Jira-24292F??style=flat-square&logo=Jira&logoColor=##4186E9)
 
-Follow Me
+### Follow Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-24292F??style=flat-square&logo=Telegram&logoColor=#F3F4F7)](https://t.me/Deportator_Y)
+[![Instagram](https://img.shields.io/badge/Instagram-24292F??style=flat-square&logo=Instagram&logoColor=#F3F4F7)](https://www.instagram.com/fabrichnov_yura)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-24292F??style=flat-square&logo=VK&logoColor=#F3F4F7)](https://vk.com/id146485290)
