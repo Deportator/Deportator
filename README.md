@@ -1,4 +1,4 @@
-[![Header](https://github.com/Deportator/Deportator/blob/main/assets/image.png)]
+![Header](https://github.com/Deportator/Deportator/blob/main/assets/image.png)
 
 Languages and Tools
 
